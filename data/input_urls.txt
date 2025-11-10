@@ -1,0 +1,4 @@
+# One LinkedIn company URL per line (public pages only).
+# Example slugs: https://www.linkedin.com/company/apifytech/
+https://www.linkedin.com/company/apifytech/
+https://www.linkedin.com/company/openai/
