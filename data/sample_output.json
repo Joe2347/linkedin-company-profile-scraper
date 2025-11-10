@@ -1,0 +1,42 @@
+[
+  {
+    "company_name": "Apify",
+    "universal_name_id": "apifytech",
+    "background_cover_image_url": null,
+    "linkedin_internal_id": null,
+    "industry": "IT Services and IT Consulting",
+    "location": "Praha, Hlavní město Praha",
+    "follower_count": 4289,
+    "tagline": "On a mission to make the web more open and programmable.",
+    "company_size_on_linkedin": null,
+    "about": "On a mission to make the web more open and programmable.",
+    "website": "https://apify.com",
+    "company_size": "51-200 employees",
+    "headquarters": "Praha, Hlavní město Praha",
+    "type": "Privately Held",
+    "founded": "2015",
+    "specialties": null,
+    "locations": [],
+    "employees": [
+      {
+        "employee_name": "Jan Čurn",
+        "employee_position": "CEO of Apify",
+        "employee_profile_url": "https://cz.linkedin.com/in/jancurn"
+      },
+      {
+        "employee_name": "Jakub Balada",
+        "employee_position": "Co-founder at Apify",
+        "employee_profile_url": "https://cz.linkedin.com/in/jbalada"
+      }
+    ],
+    "updates": [
+      {
+        "text": "Data is the fuel for AI 🔥",
+        "articlePostedDate": "4mo",
+        "totalLikes": "14"
+      }
+    ],
+    "similar_companies": [],
+    "source_url": "https://www.linkedin.com/company/apifytech/"
+  }
+]
